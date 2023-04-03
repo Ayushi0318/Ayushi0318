@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi9797&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushi0318" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushi0318&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushi0318" /> </p>
 <h4> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
  </h4>
